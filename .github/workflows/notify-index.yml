@@ -1,0 +1,22 @@
+name: Notify Website of Changes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.pdf'
+
+jobs:
+  ping-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Sync in mu-pyq-index
+        run: |
+          curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.SYNC_TOKEN }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/tanvirr007/mu-pyq-index/dispatches \
+            -d '{"event_type": "sync-index"}'
