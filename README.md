@@ -99,19 +99,19 @@ BA-Marathi-English, BA-History, BA-Economics, BA-Psychology, BA-Sociology, BA-Po
 
 ## FAQ
 
-**Q: Is this legal?**  
+**Q: Is this legal?**
 A: Yes. Fair use doctrine + educational purpose. Read **[LEGAL.md](LEGAL.md)** for full analysis.
 
-**Q: Is this ethical?**  
+**Q: Is this ethical?**
 A: Yes. These are Mumbai University's materials. We're returning them. Read **[ETHICS.md](ETHICS.md)**.
 
-**Q: Can I share this with friends?**  
+**Q: Can I share this with friends?**
 A: Yes. Share the link: https://github.com/Mumbai-University-PYQ/PYQ
 
-**Q: My course is missing.**  
+**Q: My course is missing.**
 A: [Open an issue](https://github.com/Mumbai-University-PYQ/PYQ/issues) or help us add it. See [Contributing](#contributing) below.
 
-**Q: I found a corrupted/wrong PDF.**  
+**Q: I found a corrupted/wrong PDF.**
 A: [Report it here.](https://github.com/Mumbai-University-PYQ/PYQ/issues)
 
 ---

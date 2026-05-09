@@ -405,5 +405,5 @@ We are here to service your educational mission, not undermine it.
 
 ---
 
-**Last Updated**: May 2026  
+**Last Updated**: May 2026
 **Legal Caveat**: This analysis is provided for educational purposes. We recommend consulting with a qualified Indian copyright attorney for personalized legal advice. This represents our research-based position, not legal counsel.
